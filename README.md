@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+* It will be a great process to learn to build an app. I believe I will have a challenge through the steps. However, CodePath has perfect videos and packages to explain. Thank you! 
 
 ## License
 
